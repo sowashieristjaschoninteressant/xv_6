@@ -1,4 +1,4 @@
-# xv6 — Operating System Extensions
+# xv6 | Operating System Extensions
 
 This repository contains my extensions and experiments built on top of the **xv6 teaching operating system originally developed by MIT**.
 
